@@ -2,7 +2,7 @@ name: Ebay Scraper (Every 3 hrs)
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  
+    - cron: "0 */3 * * *"
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -23,12 +23,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser
-          pip install selenium pandas webdriver-manager fake-useragent
+          pip install selenium pandas webdriver-manager fake-useragent requests beautifulsoup4
 
       - name: Run Selenium scrapers
         run: |
           python scrapper.py
-
 
       - name: Commit and Push updated CSV
         run: |
