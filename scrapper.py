@@ -22,9 +22,9 @@ ua = UserAgent()
 options.add_argument(f"user-agent={ua.random}")
 
 # Set up ChromeDriver using webdriver_manager
-# service = Service(ChromeDriverManager().install())
+service = Service(ChromeDriverManager().install())
 
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(service=service, options=options)
 
 # Define the target website (CoinMarketCap Bitcoin page)
 URL = "https://www.ebay.com/globaldeals/tech"
