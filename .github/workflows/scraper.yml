@@ -23,7 +23,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser
-          pip install selenium pandas webdriver-manager fake-useragent requests beautifulsoup4
+          pip install selenium pandas webdriver-manager fake-useragent beautifulsoup4 requests
 
       - name: Run Selenium scrapers
         run: |
