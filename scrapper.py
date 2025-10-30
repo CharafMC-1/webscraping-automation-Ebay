@@ -9,8 +9,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from fake_useragent import UserAgent
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from bs4 import BeautifulSoup
-import requests
 # Set up Selenium options
 options = Options()
 options.add_argument("--headless")  # Enable headless mode for GitHub Actions
@@ -89,7 +87,9 @@ def scrape_ebay_data():
                 print("Error in getting the item_URL")
                 item_URL = "NA"
             shipping = "N/A"
-            try:            
+            try:
+                from bs4 import BeautifulSoup
+                import requests
                 resp = requests.get(
                     item_URL,
                     headers={"User-Agent": ua.random},
