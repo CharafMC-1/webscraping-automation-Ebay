@@ -1,215 +1,185 @@
 timestamp,Title,price,Original_Price,Shipping_Info,URL
-2025-12-01 21:02:19,Acer Predator Helios Neo 16S Gaming Laptop RTX 5070 Ti 32GB RAM 1TB Refurbished,"$1,234.79","$1,899.99",N/A,https://www.ebay.com/itm/277352801036?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:02:30,Unknown,"$1,234.79",NA,N/A,NA
-2025-12-01 21:02:30,Anker Prime 250W USB-C Charger 6-Port GaN Charging Station Smart Control Dial,$124.99,NA,N/A,https://www.ebay.com/itm/226334154082?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:02:40,Unknown,$124.99,NA,N/A,NA
-2025-12-01 21:02:40,Acer Swift Go 16 Touchscreen Laptop Intel Ultra 9 32GB RAM 1TB SSD Refurbished,$562.49,$999.99,N/A,https://www.ebay.com/itm/256696171093?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:02:50,Unknown,$562.49,NA,N/A,NA
-2025-12-01 21:02:50,Apple iPhone 15 Pro Max A2849 256GB Unlocked Excellent Condition,$590.99,NA,N/A,https://www.ebay.com/itm/356895100574?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:02:51,Unknown,$590.99,NA,N/A,NA
-2025-12-01 21:02:51,"Acer Aspire 3-15.6"" Laptop AMD Ryzen 5 7520 2.8GHz 16GB RAM 1TB SSD Refurbished",$227.69,$499.99,N/A,https://www.ebay.com/itm/266889342994?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:01,Unknown,$227.69,NA,N/A,NA
-2025-12-01 21:03:01,Apple Watch Ultra 3 49mm GPS Cellular Titanium Case w Black Ocean Band MF0J4LW/A,$599.00,$799.00,N/A,https://www.ebay.com/itm/365937015430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:02,Unknown,$599.00,NA,N/A,NA
-2025-12-01 21:03:02,Meta Quest 3S 128GB,$249.99,$299.99,N/A,https://www.ebay.com/itm/406335569437?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:03,Unknown,$249.99,NA,N/A,NA
-2025-12-01 21:03:03,"$12/Mo RedPocket Prepaid Plan: UnImtd Everything, GSMA 5GB(GSMT & CDMA 3GB)",$125.99,$180.00,N/A,https://www.ebay.com/itm/133058473014?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:05,Unknown,$125.99,NA,N/A,NA
-2025-12-01 21:03:05,Sony WH-1000XM6 Best Wireless Noise Canceling Headphones | Platinum Silver,$398.00,$449.99,N/A,https://www.ebay.com/itm/336036088287?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:15,Unknown,$398.00,NA,N/A,NA
-2025-12-01 21:03:15,"OMEN MAX Gaming Laptop 16"" WQXGA Intel Core Ultra 9 32 GB memory;1 TB SSD","$1,701.99","$3,299.99",N/A,https://www.ebay.com/itm/156986775462?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:25,Unknown,"$1,701.99",NA,N/A,NA
-2025-12-01 21:03:25,"Apple iPhone 16 Pro Max 256GB 6.9"" 5G Fully Unlocked, Desert Titanium",$754.99,"$1,199.00",N/A,https://www.ebay.com/itm/406400958763?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:26,Unknown,$754.99,NA,N/A,NA
-2025-12-01 21:03:26,"Seagate Exos ST26000NM000C 26TB CMR 7200RPM SATA6Gb/s 3.5"" Enterprise Hard Drive",$298.99,$409.99,N/A,https://www.ebay.com/itm/226536553768?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:36,Unknown,$298.99,NA,N/A,NA
-2025-12-01 21:03:36,Meta Quest 3S 256GB,$329.99,$399.99,N/A,https://www.ebay.com/itm/405954150702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:46,Unknown,$329.99,NA,N/A,NA
-2025-12-01 21:03:46,"Toshiba MG08ACP16TE 16TB 512MB 7200RPM SATA 6.0Gb/s 3.5"" Internal Enterprise HDD",$189.99,$239.99,N/A,https://www.ebay.com/itm/167745461033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:47,Unknown,$189.99,NA,N/A,NA
-2025-12-01 21:03:47,"$18.33/Mo RedPocket Prepaid Plan: UnImtd Everything, GSMA 12GB(GSMT & CDMA 8GB)",$189.99,$220.00,N/A,https://www.ebay.com/itm/133058350672?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:03:57,Unknown,$189.99,NA,N/A,NA
-2025-12-01 21:03:58,LG OLED77C5P 77 inch Class OLED evo AI C5 4K UHD HDR Smart TV - 2025 Model,"$1,996.99","$4,299.95",N/A,https://www.ebay.com/itm/187673769694?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:08,Unknown,"$1,996.99",NA,N/A,NA
-2025-12-01 21:04:08,Samsung Galaxy S22 Ultra 512GB S908U Unlocked - Good,$319.99,NA,N/A,https://www.ebay.com/itm/256497629590?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:09,Unknown,$319.99,NA,N/A,NA
-2025-12-01 21:04:09,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Excellent,$589.99,"$1,419.99",N/A,https://www.ebay.com/itm/256754180033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:19,Unknown,$589.99,NA,N/A,NA
-2025-12-01 21:04:19,"Apple iPhone 14 128GB Unlocked 6.1"" - (Midnight) A2649 w/1 Year Warranty",$264.51,$799.00,N/A,https://www.ebay.com/itm/375369082679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:20,Unknown,$264.51,NA,N/A,NA
-2025-12-01 21:04:20,Samsung Galaxy S22 Ultra 256GB S908U Unlocked - Good,$299.99,NA,N/A,https://www.ebay.com/itm/256459409583?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:21,Unknown,$299.99,NA,N/A,NA
-2025-12-01 21:04:21,Samsung Galaxy S23 Ultra 512GB S918U Unlocked - Good,$434.99,NA,N/A,https://www.ebay.com/itm/256413667885?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:23,Unknown,$434.99,NA,N/A,NA
-2025-12-01 21:04:23,"1 Year Warranty Dell P29T001 11.6"" Chromebook Celeron 1.1GHz/4GB/32GB (Black)",$36.40,$240.00,N/A,https://www.ebay.com/itm/145586233629?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:24,Unknown,$36.40,NA,N/A,NA
-2025-12-01 21:04:24,"Apple iPhone 14 128GB Unlocked 6.1"" - (Blue) A2649 w/1 Year Warranty",$265.45,$799.00,N/A,https://www.ebay.com/itm/355661168251?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:34,Unknown,$265.45,NA,N/A,NA
-2025-12-01 21:04:34,DJI Mini 4 Pro Fly More Combo with DJI RC 2 (Screen Remote Controller) Drone,"$1,499.00",NA,N/A,https://www.ebay.com/itm/305160770370?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:35,Unknown,"$1,499.00",NA,N/A,NA
-2025-12-01 21:04:35,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",$169.99,NA,N/A,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:45,Unknown,$169.99,NA,N/A,NA
-2025-12-01 21:04:45,LG OLED65C5P 65 inch Class OLED evo AI C5 4K UHD HDR Smart TV - 2025 Model,"$1,396.99","$3,199.95",N/A,https://www.ebay.com/itm/167877502514?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:55,Unknown,"$1,396.99",NA,N/A,NA
-2025-12-01 21:04:55,Apple Watch Ultra 2 2nd Gen 49MM GPS & Cellular Finish Black Titanium -Excellent,$419.99,NA,N/A,https://www.ebay.com/itm/156653678440?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:57,Unknown,$419.99,NA,N/A,NA
-2025-12-01 21:04:57,"Apple iPhone 13 128GB Unlocked 6.1"" - (Midnight) A2482 w/1 Year Warranty",$235.33,$799.00,N/A,https://www.ebay.com/itm/355515650071?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:04:58,Unknown,$235.33,NA,N/A,NA
-2025-12-01 21:04:58,Samsung Galaxy S23 Ultra 256GB S918U Unlocked - Very Good,$379.99,NA,N/A,https://www.ebay.com/itm/256379350872?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:08,Unknown,$379.99,NA,N/A,NA
-2025-12-01 21:05:08,Samsung Galaxy S24 Ultra 256GB S928U Unlocked - Excellent,$549.99,NA,N/A,https://www.ebay.com/itm/256601270287?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:18,Unknown,$549.99,NA,N/A,NA
-2025-12-01 21:05:18,Meta Quest 3S 128GB (Refurbished),$269.99,$299.99,N/A,https://www.ebay.com/itm/405845419215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:28,Unknown,$269.99,NA,N/A,NA
-2025-12-01 21:05:28,LG 77 inch OLED evo G5 4K UHD Smart TV + Wall Mount - 2025 Model OLED77G5WUA,"$2,796.99",NA,N/A,https://www.ebay.com/itm/297737539543?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:38,Unknown,"$2,796.99",NA,N/A,NA
-2025-12-01 21:05:38,Soundcore Boom 2 SE Outdoor Speaker Portable Subwoofer BassUp Floatable IPX7 30W,$61.24,$129.99,N/A,https://www.ebay.com/itm/387153628036?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:48,Unknown,$61.24,NA,N/A,NA
-2025-12-01 21:05:48,Samsung Galaxy Watch6 44mm R940N GPS - Good,$84.99,NA,N/A,https://www.ebay.com/itm/256677451553?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:49,Unknown,$84.99,NA,N/A,NA
-2025-12-01 21:05:50,"Apple iPhone 16 Pro Max 256GB 6.9"" 5G Fully Unlocked, Very Good",$739.99,"$1,199.00",N/A,https://www.ebay.com/itm/406424219533?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:05:51,Unknown,$739.99,NA,N/A,NA
-2025-12-01 21:05:51,DJI Mini 4 Pro Fly More Vlogger Combo Drone with DJI RC - Certified Refurbished,"$1,199.20",NA,N/A,https://www.ebay.com/itm/305806981195?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:01,Unknown,"$1,199.20",NA,N/A,NA
-2025-12-01 21:06:01,Seagate Exos HDD 20TB ST20000NM002C (Recertified),$264.99,$289.99,N/A,https://www.ebay.com/itm/236412147285?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:11,Unknown,$264.99,NA,N/A,NA
-2025-12-01 21:06:11,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,$624.99,NA,N/A,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:12,Unknown,$624.99,NA,N/A,NA
-2025-12-01 21:06:12,Apple iPhone 14 128GB Factory Unlocked AT&T T-Mobile Verizon Very Good Condition,$284.95,NA,N/A,https://www.ebay.com/itm/295504908552?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:13,Unknown,$284.95,NA,N/A,NA
-2025-12-01 21:06:13,PS4 New Super Lucky Tale (Sony Playstation 4),$17.72,NA,N/A,https://www.ebay.com/itm/405395225911?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:14,Unknown,$17.72,NA,N/A,NA
-2025-12-01 21:06:14,Lenovo Legion 5 15.1 OLED WQXGA 165Hz Gaming Notebook Intel Core Ultra 9 275HX,"$1,469.99","$1,999.99",N/A,https://www.ebay.com/itm/306423604443?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:15,Unknown,"$1,469.99",NA,N/A,NA
-2025-12-01 21:06:15,JBL PartyBox Stage 320 Illuminated LED Wireless Bluetooth Speaker - Black,$376.00,$599.99,N/A,https://www.ebay.com/itm/157359929835?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:16,Unknown,$376.00,NA,N/A,NA
-2025-12-01 21:06:16,Nintendo Switch OLED 64GB Console + 1 Year🛡️ Warranty | 2-Day Shipping! 📦✈️,$259.95,NA,N/A,https://www.ebay.com/itm/297795214177?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
-2025-12-01 21:06:27,Unknown,$259.95,NA,N/A,NA
-2025-12-01 21:06:27,Apple iPhone 16 Black 128GB Very Good - Refurbished - Unlocked,$561.59,NA,N/A,https://www.ebay.com/itm/127494181753?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
-2025-12-01 21:06:37,Unknown,$561.59,NA,N/A,NA
-2025-12-01 21:06:37,Apple iPhone 16 Pro Max 256GB Unlocked Excellent Condition,"$1,075.18",NA,N/A,https://www.ebay.com/itm/356605681295?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
-2025-12-01 21:06:38,Unknown,"$1,075.18",NA,N/A,NA
-2025-12-01 21:06:38,Google Pixel 9 Pro Fold 256GB Unlocked - Excellent,$898.95,NA,N/A,https://www.ebay.com/itm/365631159149?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
-2025-12-01 21:06:39,Unknown,$898.95,NA,N/A,NA
-2025-12-01 21:06:39,Samsung Galaxy S23 FE SM-S711U T-Mobile Only 128GB Graphite Good,$177.99,NA,N/A,https://www.ebay.com/itm/176486362297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
-2025-12-01 21:06:49,Unknown,$177.99,NA,N/A,NA
-2025-12-01 21:06:49,"Lenovo LOQ-E 15.6"" 144Hz Gaming Laptop i5-12450HX 16GB RAM 512GB SSD RTX 3050",$539.99,$880.99,N/A,https://www.ebay.com/itm/126480962681?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
-2025-12-01 21:06:59,Unknown,$539.99,NA,N/A,NA
-2025-12-01 21:06:59,Acer Predator Helios Neo 14 Gaming Notebook Intel Ultra7 GeForceRTX4070 16GB 1TB,$773.99,"$1,699.99",N/A,https://www.ebay.com/itm/256704364915?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
-2025-12-01 21:07:00,Unknown,$773.99,NA,N/A,NA
-2025-12-01 21:07:00,"ASUS VivoBook 16"" WUXGA Notebook Intel Core i7-13620H 16GB DDR4 RAM 512GB SSD",$469.99,$729.99,N/A,https://www.ebay.com/itm/296584849936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
-2025-12-01 21:07:10,Unknown,$469.99,NA,N/A,NA
-2025-12-01 21:07:10,"Lenovo V14 2025 G4 IRU 14"" Intel i7-13620H Business Laptop 16GB RAM 512GB SSD",$449.99,$649.99,N/A,https://www.ebay.com/itm/127282382612?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
-2025-12-01 21:07:12,Unknown,$449.99,NA,N/A,NA
-2025-12-01 21:07:12,NEBULA Anker Capsule 3 Laser Smart Projector 1080P Portable for Home/Outdoor,$424.99,$799.99,N/A,https://www.ebay.com/itm/385887562764?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
-2025-12-01 21:07:13,Unknown,$424.99,NA,N/A,NA
-2025-12-01 21:07:13,"Bose TV Speaker Home Theater Soundbar, Certified Refurbished",$199.00,$279.00,N/A,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
-2025-12-01 21:07:23,Unknown,$199.00,NA,N/A,NA
-2025-12-01 21:07:23,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",$124.00,$199.00,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
-2025-12-01 21:07:25,Unknown,$124.00,NA,N/A,NA
-2025-12-01 21:07:25,"NEBULA Mars 3 Outdoor Portable Projector 1080P Autofocus 200"" Home Cinema|Refurb",$603.74,"$1,049.99",N/A,https://www.ebay.com/itm/386267169046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
-2025-12-01 21:07:35,Unknown,$603.74,NA,N/A,NA
-2025-12-01 21:07:35,DJI Mavic Air - White Drone - 4K Quadcopter Compact-Certified Refurbished,$359.20,$999.00,N/A,https://www.ebay.com/itm/304925264973?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
-2025-12-01 21:07:45,Unknown,$359.20,NA,N/A,NA
-2025-12-01 21:07:45,DJI Avata 2 Fly More Combo (Three Batteries),"$1,119.20",NA,N/A,https://www.ebay.com/itm/305508138425?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
-2025-12-01 21:07:55,Unknown,"$1,119.20",NA,N/A,NA
-2025-12-01 21:07:55,DJI Mini 2 SE Drone Fly More Ready To Fly Vlogger Combo - Certified Refurbished,$399.00,$489.00,N/A,https://www.ebay.com/itm/305805052778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
-2025-12-01 21:07:56,Unknown,$399.00,NA,N/A,NA
-2025-12-01 21:07:56,DJI RS 3 Mini Gimbal Stabilizer Designed for Mirrorless Cameras,$170.09,$549.00,N/A,https://www.ebay.com/itm/326027390375?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
-2025-12-01 21:07:57,Unknown,$170.09,NA,N/A,NA
-2025-12-01 21:07:57,Sony PlayStation 5 DualSense Wireless Controller Chroma Pearl,$59.99,$79.99,N/A,https://www.ebay.com/itm/306058873420?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
-2025-12-01 21:08:07,Unknown,$59.99,NA,N/A,NA
-2025-12-01 21:08:07,"ASUS ROG Ally 7"" 120Hz FHD Touch AMD Ryzen Z1 16GB 512GB SSD W11H Gaming Console",$389.00,$649.99,N/A,https://www.ebay.com/itm/167912235793?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
-2025-12-01 21:08:18,Unknown,$389.00,NA,N/A,NA
-2025-12-01 21:08:18,Nintendo Switch Lite Gaming Handheld - Pick Your Color! + Free 1 Year Warranty🛡,$159.99,$229.99,N/A,https://www.ebay.com/itm/197909557557?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
-2025-12-01 21:08:19,Unknown,$159.99,NA,N/A,NA
-2025-12-01 21:08:19,Sony PlayStation 5 DualSense Wireless Controller Chroma Indigo,$59.99,$79.99,N/A,https://www.ebay.com/itm/297369153242?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
-2025-12-01 21:08:29,Unknown,$59.99,NA,N/A,NA
-2025-12-01 21:08:29,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",$169.99,NA,N/A,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
-2025-12-01 21:08:30,Unknown,$169.99,NA,N/A,NA
-2025-12-01 21:08:30,"2022 Apple iPad Air 5th Gen 256GB WiFi Only 10.9"" (Blue) A2588 w/1 Year Warranty",$366.73,$749.00,N/A,https://www.ebay.com/itm/376625053109?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
-2025-12-01 21:08:31,Unknown,$366.73,NA,N/A,NA
-2025-12-01 21:08:31,Apple iPad Pro 10.5 A1701 WiFi 256GB Space Gray (Excellent),$179.99,$799.00,N/A,https://www.ebay.com/itm/286892686702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
-2025-12-01 21:08:33,Unknown,$179.99,NA,N/A,NA
-2025-12-01 21:08:33,Samsung Galaxy Tab S7 5G T878U (Wi-Fi/Unlocked) 128GB Mystic Black (Excellent),$238.99,$849.99,N/A,https://www.ebay.com/itm/286887299438?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
-2025-12-01 21:08:34,Unknown,$238.99,NA,N/A,NA
-2025-12-01 21:08:34,Apple - HomePod mini,$129.49,NA,N/A,https://www.ebay.com/itm/326656443193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
-2025-12-01 21:08:35,Unknown,$129.49,NA,N/A,NA
-2025-12-01 21:08:35,Apple AirPods Max - Space Gray / MGYH3AM/A,$360.99,$379.99,N/A,https://www.ebay.com/itm/205037673366?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
-2025-12-01 21:08:36,Unknown,$360.99,NA,N/A,NA
-2025-12-01 21:08:36,Apple AirPods Pro 2nd Generation Gen 2 2023 A2968 with Magsafe USB-C Charging,$142.95,NA,N/A,https://www.ebay.com/itm/285636515887?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
-2025-12-01 21:08:46,Unknown,$142.95,NA,N/A,NA
-2025-12-01 21:08:46,Apple AirPods 2nd Gen Genuine Replacement Right or Left or Charging Case,$15.49,NA,N/A,https://www.ebay.com/itm/115878536964?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
-2025-12-01 21:08:47,Unknown,$15.49,NA,N/A,NA
-2025-12-01 21:08:47,"Toshiba MG08ACP16TE 16TB 512MB 7200RPM SATA 6.0Gb/s 3.5"" Internal Enterprise HDD",$189.99,$239.99,N/A,https://www.ebay.com/itm/167745461033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
-2025-12-01 21:08:57,Unknown,$189.99,NA,N/A,NA
-2025-12-01 21:08:57,Netac 2TB 1TB 500GB 256GB M.2 PCIe SSD 2280 NVMe Internal Solid State Drive lot,$23.99,NA,N/A,https://www.ebay.com/itm/315875623194?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
-2025-12-01 21:09:07,Unknown,$23.99,NA,N/A,NA
-2025-12-01 21:09:07,Netac 1TB 2TB 512GB Internal SSD 2.5'' SATA III 6Gb/s Solid State Drive lot,$13.99,NA,N/A,https://www.ebay.com/itm/314555594439?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
-2025-12-01 21:09:08,Unknown,$13.99,NA,N/A,NA
-2025-12-01 21:09:08,Recertified Western Digital 2TB WD Elements SE - RWDBEPK0020BBK-WESN,$49.99,$79.99,N/A,https://www.ebay.com/itm/296201483112?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
-2025-12-01 21:09:10,Unknown,$49.99,NA,N/A,NA
-2025-12-01 21:09:10,"Bose SoundLink Max Portable Speaker, Certified Refurbished",$286.00,NA,N/A,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
-2025-12-01 21:09:11,Unknown,$286.00,NA,N/A,NA
-2025-12-01 21:09:11,"Bose Ultra Open Earbuds, Certified Refurbished",$186.00,$299.00,N/A,https://www.ebay.com/itm/186628375702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
-2025-12-01 21:09:21,Unknown,$186.00,NA,N/A,NA
-2025-12-01 21:09:21,Sony WH-1000XM6 Best Wireless Noise Canceling Headphones | Platinum Silver,$398.00,$449.99,N/A,https://www.ebay.com/itm/336036088287?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
-2025-12-01 21:09:22,Unknown,$398.00,NA,N/A,NA
-2025-12-01 21:09:22,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",$311.00,$449.00,N/A,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
-2025-12-01 21:09:32,Unknown,$311.00,NA,N/A,NA
-2025-12-01 21:09:32,"Canon imageCLASS MF269dw - All-in-One, Wireless, Mobile-Ready Laser Printer",$114.99,$249.95,N/A,https://www.ebay.com/itm/376459300802?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
-2025-12-01 21:09:33,Unknown,$114.99,NA,N/A,NA
-2025-12-01 21:09:34,Canon Color imageCLASS LBP632Cdw Wireless Laser Printer 22 PPM (Refurbished),$153.99,$199.95,N/A,https://www.ebay.com/itm/376306949652?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
-2025-12-01 21:09:34,Unknown,$153.99,NA,N/A,NA
-2025-12-01 21:09:35,Canon imageCLASS MF465dw Monochrome Duplex Laser Printer (White),$209.99,$299.95,N/A,https://www.ebay.com/itm/297596777630?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
-2025-12-01 21:09:45,Unknown,$209.99,NA,N/A,NA
-2025-12-01 21:09:45,HP HP-OJPRO9128E-RB OfficeJet Pro 9128e All-in-One Printer-Certified Refurbished,$169.99,NA,N/A,https://www.ebay.com/itm/135849081171?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
-2025-12-01 21:09:55,Unknown,$169.99,NA,N/A,NA
-2025-12-01 21:09:55,"REDTIGER Dash Camera 4K Front and Rear Dash Cam Built-In WiFi & GPS, App control",$69.99,$129.99,N/A,https://www.ebay.com/itm/285933024479?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
-2025-12-01 21:10:05,Unknown,$69.99,NA,N/A,NA
-2025-12-01 21:10:05,REDTIGER 4K Dash Cam Front and Rear Dual Dash Camera WIFI&GPS With 32GB SD Card,$69.99,$129.99,N/A,https://www.ebay.com/itm/285048811560?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
-2025-12-01 21:10:06,Unknown,$69.99,NA,N/A,NA
-2025-12-01 21:10:06,X7 HD 24V 12V Diesel Heavy Duty Truck Scanner E-CU Coding All System DPF Regen,$674.99,$899.99,N/A,https://www.ebay.com/itm/154567834067?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
-2025-12-01 21:10:16,Unknown,$674.99,NA,N/A,NA
-2025-12-01 21:10:16,REDTIGER 4K Dual Dash Camera Front and Rear Dash Cam WIFI&GPS With 32GB SD Card,$69.99,NA,N/A,https://www.ebay.com/itm/285048811662?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
-2025-12-01 21:10:18,Unknown,$69.99,NA,N/A,NA
-2025-12-01 21:10:18,Canon RF 85mm f/2 Macro IS STM Lens,$529.95,$649.00,N/A,https://www.ebay.com/itm/226883142452?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
-2025-12-01 21:10:19,Unknown,$529.95,NA,N/A,NA
-2025-12-01 21:10:19,Sony FE 300mm F2.8 GM OSS Full-frame Telephoto Prime G Master Lens,"$6,798.00",NA,N/A,https://www.ebay.com/itm/375443443311?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
-2025-12-01 21:10:29,Unknown,"$6,798.00",NA,N/A,NA
-2025-12-01 21:10:29,Canon RF 100-500mm f/4.5-7.1L IS USM Lens,"$2,549.95","$2,799.00",N/A,https://www.ebay.com/itm/224733471749?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
-2025-12-01 21:10:39,Unknown,"$2,549.95",NA,N/A,NA
-2025-12-01 21:10:39,Canon RF 16mm f/2.8 STM Lens,$259.95,$299.99,N/A,https://www.ebay.com/itm/325602194843?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
-2025-12-01 21:10:40,Unknown,$259.95,NA,N/A,NA
-2025-12-01 21:10:40,Meta Quest 3S 128GB,$249.99,$299.99,N/A,https://www.ebay.com/itm/406335569437?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
-2025-12-01 21:10:41,Unknown,$249.99,NA,N/A,NA
-2025-12-01 21:10:41,Meta Quest 3S 256GB,$329.99,$399.99,N/A,https://www.ebay.com/itm/405954150702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
-2025-12-01 21:10:51,Unknown,$329.99,NA,N/A,NA
-2025-12-01 21:10:51,"Bose SoundLink Max Portable Speaker, Certified Refurbished",$286.00,NA,N/A,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
-2025-12-01 21:11:01,Unknown,$286.00,NA,N/A,NA
-2025-12-01 21:11:01,NEBULA Anker Capsule 3 Laser Smart Projector 1080P Portable for Home/Outdoor,$424.99,$799.99,N/A,https://www.ebay.com/itm/385887562764?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
-2025-12-01 21:11:11,Unknown,$424.99,NA,N/A,NA
-2025-12-01 21:11:11,"OBSBOT Tiny 2 Lite 4K Webcam for PC, AI Tracking PTZ Streaming Camera",$129.00,$159.00,N/A,https://www.ebay.com/itm/297533735781?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
-2025-12-01 21:11:22,Unknown,$129.00,NA,N/A,NA
-2025-12-01 21:11:22,Apple Pencil 2nd Generation for iPad Pro Stylus MU8F2AM/A with Wireless Charging,$63.75,$150.00,N/A,https://www.ebay.com/itm/283418233310?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
-2025-12-01 21:11:32,Unknown,$63.75,NA,N/A,NA
-2025-12-01 21:11:32,Apple Magic Keyboard for iPad Air 11-inch (M3) - White,$179.95,$319.00,N/A,https://www.ebay.com/itm/317155922649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
-2025-12-01 21:11:33,Unknown,$179.95,NA,N/A,NA
-2025-12-01 21:11:33,Apple Pencil (USB-C) - White Stylus MUWA3AM/A with Pixel-Perfect Precision,$49.99,$79.00,N/A,https://www.ebay.com/itm/296262723993?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
-2025-12-01 21:11:34,Unknown,$49.99,NA,N/A,NA
-2025-12-01 21:11:34,Apple iPhone 16 Black 128GB Very Good - Refurbished - Unlocked,$561.59,NA,N/A,https://www.ebay.com/itm/127494181753?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
-2025-12-01 21:11:35,Unknown,$561.59,NA,N/A,NA
-2025-12-01 21:11:35,Apple iPhone 16 Pro Max 256GB Unlocked Excellent Condition,"$1,075.18",NA,N/A,https://www.ebay.com/itm/356605681295?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
-2025-12-01 21:11:36,Unknown,"$1,075.18",NA,N/A,NA
-2025-12-01 21:11:36,Google Pixel 9 Pro Fold 256GB Unlocked - Excellent,$898.95,NA,N/A,https://www.ebay.com/itm/365631159149?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
-2025-12-01 21:11:46,Unknown,$898.95,NA,N/A,NA
-2025-12-01 21:11:46,Samsung Galaxy Watch5 Pro 45mm R920N GPS - Good,$59.99,NA,N/A,https://www.ebay.com/itm/256279079134?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
-2025-12-01 21:11:47,Unknown,$59.99,NA,N/A,NA
-2025-12-01 21:11:47,"Acer 16"" PM161QC Portable Widescreen LCD Monitor FHD 1920×1080 60Hz Refurbished",$40.49,$99.99,N/A,https://www.ebay.com/itm/276789897235?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
-2025-12-01 21:11:48,Unknown,$40.49,NA,N/A,NA
-2025-12-01 21:11:48,"Acer ED342CK 34"" Curved LCD Gaming Monitor 180Hz 3440x1440 21:9 1 ms Refurbished",$152.99,$329.99,N/A,https://www.ebay.com/itm/256696163810?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
-2025-12-01 21:11:49,Unknown,$152.99,NA,N/A,NA
-2025-12-01 21:11:49,"Acer Nitro 27"" Gaming Monitor 4K UHD 3840x2160 160Hz 1ms LED 1000Nit Refurbished",$311.24,$879.99,N/A,https://www.ebay.com/itm/277040332428?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
-2025-12-01 21:11:59,Unknown,$311.24,NA,N/A,NA
-2025-12-01 21:11:59,"MSI MAG 321UPX QD-OLED 32"" UHD Gaming Monitor, 240Hz/0.03ms HDR 400",$679.99,$899.99,N/A,https://www.ebay.com/itm/256532988914?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
-2025-12-01 21:12:10,Unknown,$679.99,NA,N/A,NA
+2025-12-01 22:55:57,Acer Predator Helios Neo 16S Gaming Laptop RTX 5070 Ti 32GB RAM 1TB Refurbished,"$1,234.79","$1,899.99",N/A,https://www.ebay.com/itm/277352801036?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:55:58,Unknown,"$1,234.79",NA,N/A,NA
+2025-12-01 22:55:58,LG 77 inch OLED evo G5 4K UHD Smart TV + Wall Mount - 2025 Model OLED77G5WUA,"$2,796.99",NA,N/A,https://www.ebay.com/itm/297737539543?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:55:59,Unknown,"$2,796.99",NA,N/A,NA
+2025-12-01 22:55:59,Acer Predator Helios Neo 14 Gaming Notebook Intel Ultra7 GeForceRTX4070 16GB 1TB,$773.99,"$1,699.99",N/A,https://www.ebay.com/itm/256704364915?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:09,Unknown,$773.99,NA,N/A,NA
+2025-12-01 22:56:09,"Apple iPhone 16 Pro Max 256GB 6.9"" 5G Fully Unlocked, Very Good",$739.99,"$1,199.00",N/A,https://www.ebay.com/itm/406424219533?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:19,Unknown,$739.99,NA,N/A,NA
+2025-12-01 22:56:19,DJI Mini 4 Pro Fly More Vlogger Combo Drone with DJI RC - Certified Refurbished,"$1,199.20",NA,N/A,https://www.ebay.com/itm/305806981195?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:21,Unknown,"$1,199.20",NA,N/A,NA
+2025-12-01 22:56:21,"Seagate Exos ST26000NM000C 26TB CMR 7200RPM SATA6Gb/s 3.5"" Enterprise Hard Drive",$298.99,$409.99,N/A,https://www.ebay.com/itm/226536553768?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:31,Unknown,$298.99,NA,N/A,NA
+2025-12-01 22:56:31,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,$624.99,NA,N/A,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:32,Unknown,$624.99,NA,N/A,NA
+2025-12-01 22:56:32,Acer Swift Go 16 Touchscreen Laptop Intel Ultra 9 32GB RAM 1TB SSD Refurbished,$562.49,$999.99,N/A,https://www.ebay.com/itm/256696171093?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:42,Unknown,$562.49,NA,N/A,NA
+2025-12-01 22:56:42,Anker Prime 250W USB-C Charger 6-Port GaN Charging Station Smart Control Dial,$124.99,NA,N/A,https://www.ebay.com/itm/226334154082?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:43,Unknown,$124.99,NA,N/A,NA
+2025-12-01 22:56:43,Apple iPhone 15 Pro Max A2849 256GB Unlocked Excellent Condition,$590.99,NA,N/A,https://www.ebay.com/itm/356895100574?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:53,Unknown,$590.99,NA,N/A,NA
+2025-12-01 22:56:53,"Acer Aspire 3-15.6"" Laptop AMD Ryzen 5 7520 2.8GHz 16GB RAM 1TB SSD Refurbished",$227.69,$499.99,N/A,https://www.ebay.com/itm/266889342994?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:56:55,Unknown,$227.69,NA,N/A,NA
+2025-12-01 22:56:55,Meta Quest 3S 128GB,$249.99,$299.99,N/A,https://www.ebay.com/itm/406335569437?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400
+2025-12-01 22:57:05,Unknown,$249.99,NA,N/A,NA
+2025-12-01 22:57:05,Apple iPhone 16 Black 128GB Very Good - Refurbished - Unlocked,$561.59,NA,N/A,https://www.ebay.com/itm/127494181753?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-12-01 22:57:15,Unknown,$561.59,NA,N/A,NA
+2025-12-01 22:57:15,Apple iPhone 16 Pro Max 256GB Unlocked Excellent Condition,"$1,075.18",NA,N/A,https://www.ebay.com/itm/356605681295?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-12-01 22:57:25,Unknown,"$1,075.18",NA,N/A,NA
+2025-12-01 22:57:25,Google Pixel 9 Pro Fold 256GB Unlocked - Excellent,$898.95,NA,N/A,https://www.ebay.com/itm/365631159149?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-12-01 22:57:26,Unknown,$898.95,NA,N/A,NA
+2025-12-01 22:57:26,Samsung Galaxy S23 FE SM-S711U T-Mobile Only 128GB Graphite Good,$177.99,NA,N/A,https://www.ebay.com/itm/176486362297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-12-01 22:57:36,Unknown,$177.99,NA,N/A,NA
+2025-12-01 22:57:36,Apple iPhone 15 Pro A2848 256GB Unlocked Excellent Condition,$722.80,NA,N/A,https://www.ebay.com/itm/356895116213?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-12-01 22:57:37,Unknown,$722.80,NA,N/A,NA
+2025-12-01 22:57:38,"Acer Aspire 3-15.6"" Laptop AMD Ryzen 5 7520 2.8GHz 16GB RAM 1TB SSD Refurbished",$227.69,$499.99,N/A,https://www.ebay.com/itm/266889342994?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-12-01 22:57:48,Unknown,$227.69,NA,N/A,NA
+2025-12-01 22:57:48,"Lenovo LOQ-E 15.6"" 144Hz Gaming Laptop i5-12450HX 16GB RAM 512GB SSD RTX 3050",$539.99,$880.99,N/A,https://www.ebay.com/itm/126480962681?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-12-01 22:57:58,Unknown,$539.99,NA,N/A,NA
+2025-12-01 22:57:58,"ASUS VivoBook 16"" WUXGA Notebook Intel Core i7-13620H 16GB DDR4 RAM 512GB SSD",$469.99,$729.99,N/A,https://www.ebay.com/itm/296584849936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-12-01 22:58:08,Unknown,$469.99,NA,N/A,NA
+2025-12-01 22:58:08,"Lenovo V14 2025 G4 IRU 14"" Intel i7-13620H Business Laptop 16GB RAM 512GB SSD",$449.99,$649.99,N/A,https://www.ebay.com/itm/127282382612?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-12-01 22:58:18,Unknown,$449.99,NA,N/A,NA
+2025-12-01 22:58:18,"Lenovo LOQ-E 15.6"" 144Hz RTX 3050 Intel i5-12450HX 16GB RAM 512GB SSD AI Laptop",$519.99,$699.99,N/A,https://www.ebay.com/itm/297540864595?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-12-01 22:58:19,Unknown,$519.99,NA,N/A,NA
+2025-12-01 22:58:19,NEBULA Anker Capsule 3 Laser Smart Projector 1080P Portable for Home/Outdoor,$424.99,$799.99,N/A,https://www.ebay.com/itm/385887562764?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-12-01 22:58:29,Unknown,$424.99,NA,N/A,NA
+2025-12-01 22:58:29,"Bose TV Speaker Home Theater Soundbar, Certified Refurbished",$199.00,$279.00,N/A,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-12-01 22:58:31,Unknown,$199.00,NA,N/A,NA
+2025-12-01 22:58:31,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",$124.00,$199.00,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-12-01 22:58:32,Unknown,$124.00,NA,N/A,NA
+2025-12-01 22:58:32,"NEBULA Mars 3 Outdoor Portable Projector 1080P Autofocus 200"" Home Cinema|Refurb",$603.74,"$1,049.99",N/A,https://www.ebay.com/itm/386267169046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-12-01 22:58:42,Unknown,$603.74,NA,N/A,NA
+2025-12-01 22:58:42,LG OLED65C5P 65 inch Class OLED evo AI C5 4K UHD HDR Smart TV - 2025 Model,"$1,326.99",NA,N/A,https://www.ebay.com/itm/306582987774?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-12-01 22:58:52,Unknown,"$1,326.99",NA,N/A,NA
+2025-12-01 22:58:52,DJI Mavic Air - White Drone - 4K Quadcopter Compact-Certified Refurbished,$359.20,$999.00,N/A,https://www.ebay.com/itm/304925264973?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-12-01 22:58:53,Unknown,$359.20,NA,N/A,NA
+2025-12-01 22:58:53,DJI Avata 2 Fly More Combo (Three Batteries),"$1,119.20",NA,N/A,https://www.ebay.com/itm/305508138425?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-12-01 22:58:54,Unknown,"$1,119.20",NA,N/A,NA
+2025-12-01 22:58:54,DJI Mini 2 SE Drone Fly More Ready To Fly Vlogger Combo - Certified Refurbished,$399.00,$489.00,N/A,https://www.ebay.com/itm/305805052778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-12-01 22:58:55,Unknown,$399.00,NA,N/A,NA
+2025-12-01 22:58:55,DJI RS 3 Mini Gimbal Stabilizer Designed for Mirrorless Cameras,$170.09,$549.00,N/A,https://www.ebay.com/itm/326027390375?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-12-01 22:59:06,Unknown,$170.09,NA,N/A,NA
+2025-12-01 22:59:06,Canon EOS R100 Mirrorless Camera Black + 3 Lens Kit 18-45mm + 32GB+ Flash & More,$609.95,$719.95,N/A,https://www.ebay.com/itm/226976141346?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-12-01 22:59:16,Unknown,$609.95,NA,N/A,NA
+2025-12-01 22:59:16,Sony PlayStation 5 DualSense Wireless Controller Chroma Pearl,$59.99,$79.99,N/A,https://www.ebay.com/itm/306058873420?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-12-01 22:59:26,Unknown,$59.99,NA,N/A,NA
+2025-12-01 22:59:26,Nintendo Switch Sports with Leg Strap Nintendo Switch Brand New,$43.99,$69.99,N/A,https://www.ebay.com/itm/388722989633?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-12-01 22:59:36,Unknown,$43.99,NA,N/A,NA
+2025-12-01 22:59:36,"ASUS ROG Ally 7"" 120Hz FHD Touch AMD Ryzen Z1 16GB 512GB SSD W11H Gaming Console",$389.00,$649.99,N/A,https://www.ebay.com/itm/167912235793?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-12-01 22:59:46,Unknown,$389.00,NA,N/A,NA
+2025-12-01 22:59:46,PlayStation 5 DualSense Wireless Controller Chroma Teal,$59.99,$79.99,N/A,https://www.ebay.com/itm/306561410329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-12-01 22:59:47,Unknown,$59.99,NA,N/A,NA
+2025-12-01 22:59:47,Nintendo Switch Lite Gaming Handheld - Pick Your Color! + Free 1 Year Warranty🛡,$159.99,$229.99,N/A,https://www.ebay.com/itm/197909557557?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-12-01 22:59:57,Unknown,$159.99,NA,N/A,NA
+2025-12-01 22:59:57,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",$169.99,NA,N/A,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-12-01 23:00:07,Unknown,$169.99,NA,N/A,NA
+2025-12-01 23:00:07,"2022 Apple iPad Air 5th Gen 256GB WiFi Only 10.9"" (Blue) A2588 w/1 Year Warranty",$366.73,$749.00,N/A,https://www.ebay.com/itm/376625053109?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-12-01 23:00:18,Unknown,$366.73,NA,N/A,NA
+2025-12-01 23:00:18,Apple iPad Pro 12.9 (2nd Gen) (WiFi + Cellular Unlocked) 256GB Gray (Very Good),$339.99,"$1,129.00",N/A,https://www.ebay.com/itm/286894147482?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-12-01 23:00:28,Unknown,$339.99,NA,N/A,NA
+2025-12-01 23:00:28,Apple iPad Pro 10.5 A1701 WiFi 256GB Space Gray (Excellent),$179.99,$799.00,N/A,https://www.ebay.com/itm/286892686702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-12-01 23:00:29,Unknown,$179.99,NA,N/A,NA
+2025-12-01 23:00:29,Samsung Galaxy Tab S7 5G T878U (Wi-Fi/Unlocked) 128GB Mystic Black (Excellent),$238.99,$849.99,N/A,https://www.ebay.com/itm/286887299438?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-12-01 23:00:39,Unknown,$238.99,NA,N/A,NA
+2025-12-01 23:00:39,Apple - HomePod mini,$129.49,NA,N/A,https://www.ebay.com/itm/326656443193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-12-01 23:00:40,Unknown,$129.49,NA,N/A,NA
+2025-12-01 23:00:40,Apple AirPods Max - Space Gray / MGYH3AM/A,$360.99,$379.99,N/A,https://www.ebay.com/itm/205037673366?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-12-01 23:00:50,Unknown,$360.99,NA,N/A,NA
+2025-12-01 23:00:50,Apple AirPods Pro 2nd Generation Gen 2 2023 A2968 with Magsafe USB-C Charging,$142.95,NA,N/A,https://www.ebay.com/itm/285636515887?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-12-01 23:00:51,Unknown,$142.95,NA,N/A,NA
+2025-12-01 23:00:51,Apple AirPods 2nd Gen Genuine Replacement Right or Left or Charging Case,$15.49,NA,N/A,https://www.ebay.com/itm/115878536964?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-12-01 23:00:52,Unknown,$15.49,NA,N/A,NA
+2025-12-01 23:00:52,Apple AirPods 3rd Generation In-Ear Headset MagSafe Charger - White - Excellent,$69.99,$179.00,N/A,https://www.ebay.com/itm/166730368354?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-12-01 23:00:55,Unknown,$69.99,NA,N/A,NA
+2025-12-01 23:00:55,"Toshiba MG08ACP16TE 16TB 512MB 7200RPM SATA 6.0Gb/s 3.5"" Internal Enterprise HDD",$189.99,$239.99,N/A,https://www.ebay.com/itm/167745461033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-12-01 23:00:56,Unknown,$189.99,NA,N/A,NA
+2025-12-01 23:00:56,Netac 2TB 1TB 500GB 256GB M.2 PCIe SSD 2280 NVMe Internal Solid State Drive lot,$23.99,NA,N/A,https://www.ebay.com/itm/315875623194?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-12-01 23:00:57,Unknown,$23.99,NA,N/A,NA
+2025-12-01 23:00:57,Netac 1TB 2TB 512GB Internal SSD 2.5'' SATA III 6Gb/s Solid State Drive lot,$13.99,NA,N/A,https://www.ebay.com/itm/314555594439?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-12-01 23:00:58,Unknown,$13.99,NA,N/A,NA
+2025-12-01 23:00:58,Recertified Western Digital 2TB WD Elements SE - RWDBEPK0020BBK-WESN,$49.99,$79.99,N/A,https://www.ebay.com/itm/296201483112?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-12-01 23:01:08,Unknown,$49.99,NA,N/A,NA
+2025-12-01 23:01:08,"Seagate Exos ST22000NM000C 22TB CMR 7200RPM SATA6Gb/s 3.5"" Enterprise Hard Drive",$257.99,$399.99,N/A,https://www.ebay.com/itm/226543075141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-12-01 23:01:18,Unknown,$257.99,NA,N/A,NA
+2025-12-01 23:01:18,"Bose SoundLink Max Portable Speaker, Certified Refurbished",$286.00,NA,N/A,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-12-01 23:01:19,Unknown,$286.00,NA,N/A,NA
+2025-12-01 23:01:19,"Bose Ultra Open Earbuds, Certified Refurbished",$186.00,$299.00,N/A,https://www.ebay.com/itm/186628375702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-12-01 23:01:20,Unknown,$186.00,NA,N/A,NA
+2025-12-01 23:01:20,Sony WH-1000XM6 Best Wireless Noise Canceling Headphones | Platinum Silver,$398.00,$449.99,N/A,https://www.ebay.com/itm/336036088287?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-12-01 23:01:21,Unknown,$398.00,NA,N/A,NA
+2025-12-01 23:01:21,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",$311.00,$449.00,N/A,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-12-01 23:01:32,Unknown,$311.00,NA,N/A,NA
+2025-12-01 23:01:32,Skullcandy SESH ANC Wireless In-ear Bluetooth Earbuds (Certified Refurb)-BLACK,$15.99,$69.99,N/A,https://www.ebay.com/itm/265983500898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-12-01 23:01:42,Unknown,$15.99,NA,N/A,NA
+2025-12-01 23:01:42,"Canon imageCLASS MF269dw - All-in-One, Wireless, Mobile-Ready Laser Printer",$114.99,$249.95,N/A,https://www.ebay.com/itm/376459300802?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-12-01 23:01:43,Unknown,$114.99,NA,N/A,NA
+2025-12-01 23:01:43,Canon imageCLASS MF753Cdw Wireless Duplex Laser Printer with Scanning and Fax,$329.99,$399.95,N/A,https://www.ebay.com/itm/376410019331?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-12-01 23:01:53,Unknown,$329.99,NA,N/A,NA
+2025-12-01 23:01:53,HP HP-OJPRO9128E-RB OfficeJet Pro 9128e All-in-One Printer-Certified Refurbished,$169.99,NA,N/A,https://www.ebay.com/itm/135849081171?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-12-01 23:02:03,Unknown,$169.99,NA,N/A,NA
+2025-12-01 23:02:03,Canon Color imageCLASS LBP632Cdw Wireless Laser Printer 22 PPM (Refurbished),$153.99,$199.95,N/A,https://www.ebay.com/itm/376306949652?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-12-01 23:02:13,Unknown,$153.99,NA,N/A,NA
+2025-12-01 23:02:13,Canon imageCLASS MF465dw Monochrome Duplex Laser Printer (White),$209.99,$299.95,N/A,https://www.ebay.com/itm/297596777630?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-12-01 23:02:23,Unknown,$209.99,NA,N/A,NA
+2025-12-01 23:02:23,"REDTIGER Dash Camera 4K Front and Rear Dash Cam Built-In WiFi & GPS, App control",$69.99,$129.99,N/A,https://www.ebay.com/itm/285933024479?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-12-01 23:02:24,Unknown,$69.99,NA,N/A,NA
+2025-12-01 23:02:24,REDTIGER 4K Dash Cam Front and Rear Dual Dash Camera WIFI&GPS With 32GB SD Card,$69.99,$129.99,N/A,https://www.ebay.com/itm/285048811560?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-12-01 23:02:25,Unknown,$69.99,NA,N/A,NA
+2025-12-01 23:02:25,X7 HD 24V 12V Diesel Heavy Duty Truck Scanner E-CU Coding All System DPF Regen,$674.99,$899.99,N/A,https://www.ebay.com/itm/154567834067?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-12-01 23:02:26,Unknown,$674.99,NA,N/A,NA
+2025-12-01 23:02:26,REDTIGER 4K Dual Dash Camera Front and Rear Dash Cam WIFI&GPS With 32GB SD Card,$69.99,NA,N/A,https://www.ebay.com/itm/285048811662?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-12-01 23:02:28,Unknown,$69.99,NA,N/A,NA
+2025-12-01 23:02:28,"Rockville SS10P 10"" 800w Slim Under-Seat Active Powered Car/Truck Subwoofer Sub",$139.95,$279.99,N/A,https://www.ebay.com/itm/394440565973?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-12-01 23:02:38,Unknown,$139.95,NA,N/A,NA
+2025-12-01 23:02:38,Canon RF 85mm f/2 Macro IS STM Lens,$529.95,$649.00,N/A,https://www.ebay.com/itm/226883142452?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-12-01 23:02:48,Unknown,$529.95,NA,N/A,NA
+2025-12-01 23:02:48,Sony FE 200-600mm f/5.6-6.3 G OSS Lens SEL200600G,"$1,699.95","$1,998.00",N/A,https://www.ebay.com/itm/223854482285?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-12-01 23:02:49,Unknown,"$1,699.95",NA,N/A,NA
+2025-12-01 23:02:49,Canon RF 100-500mm f/4.5-7.1L IS USM Lens,"$2,549.95","$2,799.00",N/A,https://www.ebay.com/itm/224733471749?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-12-01 23:02:59,Unknown,"$2,549.95",NA,N/A,NA
+2025-12-01 23:02:59,Canon RF 16mm f/2.8 STM Lens,$259.95,$299.99,N/A,https://www.ebay.com/itm/325602194843?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-12-01 23:03:09,Unknown,$259.95,NA,N/A,NA
+2025-12-01 23:03:09,"Canon RF 70-200mm f/2.8 L IS USM Z Lens (Black, Canon RF)","$3,299.00","$3,920.00",N/A,https://www.ebay.com/itm/286741885942?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-12-01 23:03:10,Unknown,"$3,299.00",NA,N/A,NA
+2025-12-01 23:03:10,Meta Quest 3S 128GB,$249.99,$299.99,N/A,https://www.ebay.com/itm/406335569437?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-12-01 23:03:20,Unknown,$249.99,NA,N/A,NA
+2025-12-01 23:03:20,Meta Quest 3S 256GB,$329.99,$399.99,N/A,https://www.ebay.com/itm/405954150702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-12-01 23:03:30,Unknown,$329.99,NA,N/A,NA
+2025-12-01 23:03:30,"Bose SoundLink Max Portable Speaker, Certified Refurbished",$286.00,NA,N/A,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-12-01 23:03:31,Unknown,$286.00,NA,N/A,NA
+2025-12-01 23:03:31,NEBULA Anker Capsule 3 Laser Smart Projector 1080P Portable for Home/Outdoor,$424.99,$799.99,N/A,https://www.ebay.com/itm/385887562764?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-12-01 23:03:33,Unknown,$424.99,NA,N/A,NA
+2025-12-01 23:03:33,eufy Indoor Security Camera S350 4K UHD Dual Cam 360°PTZ 8×Zoom|Certified Refurb,$89.99,$129.99,N/A,https://www.ebay.com/itm/386321868632?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-12-01 23:03:34,Unknown,$89.99,NA,N/A,NA
+2025-12-01 23:03:34,"OBSBOT Tiny 2 Lite 4K Webcam for PC, AI Tracking PTZ Streaming Camera",$129.00,$159.00,N/A,https://www.ebay.com/itm/297533735781?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-12-01 23:03:35,Unknown,$129.00,NA,N/A,NA
+2025-12-01 23:03:35,Apple Pencil 2nd Generation for iPad Pro Stylus MU8F2AM/A with Wireless Charging,$63.75,$150.00,N/A,https://www.ebay.com/itm/283418233310?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-12-01 23:03:36,Unknown,$63.75,NA,N/A,NA
+2025-12-01 23:03:36,Apple Pencil Pro MX2D3AM/A White for iPad Pro M4 & iPad Air M2 Authentic,$81.25,$150.00,N/A,https://www.ebay.com/itm/276648194139?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-12-01 23:03:46,Unknown,$81.25,NA,N/A,NA
+2025-12-01 23:03:46,Logitech - Yeti GX Wired Supercardioid Dynamic Gaming Microphone with LIGHTSYNC,$81.00,$169.99,N/A,https://www.ebay.com/itm/167110982884?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-12-01 23:03:47,Unknown,$81.00,NA,N/A,NA
+2025-12-01 23:03:47,Apple Pencil (USB-C) - White Stylus MUWA3AM/A with Pixel-Perfect Precision,$49.99,$79.00,N/A,https://www.ebay.com/itm/296262723993?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-12-01 23:03:57,Unknown,$49.99,NA,N/A,NA
+2025-12-01 23:03:57,Apple iPhone 16 Black 128GB Very Good - Refurbished - Unlocked,$561.59,NA,N/A,https://www.ebay.com/itm/127494181753?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-12-01 23:03:58,Unknown,$561.59,NA,N/A,NA
+2025-12-01 23:03:58,Apple iPhone 16 Pro Max 256GB Unlocked Excellent Condition,"$1,075.18",NA,N/A,https://www.ebay.com/itm/356605681295?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-12-01 23:04:08,Unknown,"$1,075.18",NA,N/A,NA
+2025-12-01 23:04:08,Google Pixel 9 Pro Fold 256GB Unlocked - Excellent,$898.95,NA,N/A,https://www.ebay.com/itm/365631159149?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-12-01 23:04:09,Unknown,$898.95,NA,N/A,NA
+2025-12-01 23:04:09,Samsung Galaxy Watch5 Pro 45mm R920N GPS - Good,$59.99,NA,N/A,https://www.ebay.com/itm/256279079134?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-12-01 23:04:19,Unknown,$59.99,NA,N/A,NA
+2025-12-01 23:04:19,Samsung Galaxy S23 FE SM-S711U T-Mobile Only 128GB Graphite Good,$177.99,NA,N/A,https://www.ebay.com/itm/176486362297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-12-01 23:04:21,Unknown,$177.99,NA,N/A,NA
+2025-12-01 23:04:21,"Acer 16"" PM161QC Portable Widescreen LCD Monitor FHD 1920×1080 60Hz Refurbished",$40.49,$99.99,N/A,https://www.ebay.com/itm/276789897235?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-12-01 23:04:31,Unknown,$40.49,NA,N/A,NA
+2025-12-01 23:04:31,"Acer Nitro 27"" Gaming Monitor 4K UHD 3840x2160 160Hz 1ms LED 1000Nit Refurbished",$311.24,$879.99,N/A,https://www.ebay.com/itm/277040332428?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-12-01 23:04:41,Unknown,$311.24,NA,N/A,NA
+2025-12-01 23:04:41,"MSI MAG 321UPX QD-OLED 32"" UHD Gaming Monitor, 240Hz/0.03ms HDR 400",$679.99,$899.99,N/A,https://www.ebay.com/itm/256532988914?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-12-01 23:04:51,Unknown,$679.99,NA,N/A,NA
+2025-12-01 23:04:51,"MSI G274QPF 27"" WQHD Flat Rapid IPS Gaming Monitor, 170Hz/1ms HDR400",$139.99,$219.99,N/A,https://www.ebay.com/itm/145613148025?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-12-01 23:05:01,Unknown,$139.99,NA,N/A,NA
+2025-12-01 23:05:02,"LG 27MS540W-B.AUS 27"" IPS FHD 100 Hz Borderless Design Monitor, Black",$79.20,$97.00,N/A,https://www.ebay.com/itm/127367452172?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-12-01 23:05:03,Unknown,$79.20,NA,N/A,NA
